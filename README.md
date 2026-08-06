@@ -15,7 +15,7 @@ ajohnsonemrald@gmail.com
 
 ---
 
-Paper is downloadable: [Here](355LatentAnalysisProject.pdf)
+Paper is downloadable: [Here](docs/355LatentAnalysisProject.pdf)
 
 Website is live at https://arthurjohnson2026.github.io/Exploring-Financial-Data/ 
 
